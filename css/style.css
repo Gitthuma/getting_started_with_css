@@ -23,3 +23,7 @@ li em {
 h1 + p {
   font-size: 200%;
 }
+
+p em {
+  color: red;
+}
