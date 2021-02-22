@@ -27,3 +27,15 @@ h1 + p {
 p em {
   color: red;
 }
+
+a:link {
+  color: crimson;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}
